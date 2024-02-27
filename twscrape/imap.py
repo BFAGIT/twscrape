@@ -28,6 +28,7 @@ IMAP_MAPPING: dict[str, str] = {
     "icloud.com": "imap.mail.me.com",
     "outlook.com": "imap-mail.outlook.com",
     "hotmail.com": "imap-mail.outlook.com",
+    "xyzanalytics.xyz":"tuesday.mxrouting.net",
 }
 
 
